@@ -1,5 +1,3 @@
-# Issue Labels
-
 **[List of active labels](https://github.com/prettier/prettier/labels?sort=name-asc)**
 
 Issue labels fall into the following groups.
