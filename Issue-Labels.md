@@ -97,6 +97,14 @@ Issue types are categories that an issue might fall into. Generally an issue sho
 
   Working as intended! Issues with this label represent a potential new feature to be added to prettier.
 
+* <kbd>type:infrastructure/meta</kbd>
+
+  This issue is about CI, publishing to npm, the status of Prettier, or anything else about Prettier itself.
+
+* <kbd>type:option request</kbd>
+
+  Prettier gets a lot of requests to add options to change the way it will print some code. Because Prettier is opinionated, and due to the cost of maintaining options, we will often refuse to add them. [Read this](https://github.com/prettier/prettier/issues/40) for more context.
+
 * <kbd>type:question</kbd>
 
   Issues marked as questions are queries about how prettier works, or bug reports that are actually prettier working as intended.
