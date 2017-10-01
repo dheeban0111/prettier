@@ -58,7 +58,7 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
 * <kbd>priority:facebook blocker</kbd>
 
-  Facebook use Prettier internally. Issues marked with this label block Facebook upgrading Prettier.
+  Although Prettier is not an official project of Facebook OpenSource, engineers working at Facebook (primarily @vjeux) have devoted a significant number of working hours to improving Prettier for everybody. Facebook use Prettier internally, and issues marked with this label block Facebook upgrading Prettier.
 
 ## Scope
 
