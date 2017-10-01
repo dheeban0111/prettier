@@ -118,9 +118,17 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
   Working as intended! Issues with this label represent a potential new feature to be added to prettier.
 
-* <kbd>type:infrastructure/meta</kbd>
+* <kbd>type:infra</kbd>
 
-  This issue is about CI, publishing to npm, the status of Prettier, or anything else about Prettier itself.
+  This issue is about CI, publishing to npm, or similar.
+
+* <kbd>type:meta</kbd>
+
+  The status of Prettier, or anything else about Prettier itself.
+
+* <kbd>type:tests</kbd>
+
+  Tests that are not correct, suggestions for tests that should be added, or similar.
 
 * <kbd>type:option request</kbd>
 
