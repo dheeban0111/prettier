@@ -46,6 +46,10 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
   This issue affects JavaScript.
 
+* <kbd>lang:typescript</kbd>
+
+  This issue affects TypeScript.
+
 ## Priority
 
 * <kbd>priority:high</kbd>
