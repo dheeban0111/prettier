@@ -22,7 +22,6 @@ Difficulty is used to mark how much time it will likely take to resolve an issue
 
   This issue might take an entire weekend, or require a tough decision.
 
-
 ## Language
 
 Prettier supports a growing number of languages so it is useful to tag them.
@@ -57,6 +56,17 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
   Facebook use Prettier internally. Issues marked with this label block Facebook upgrading Prettier.
 
+## Scope
+
+* <kbd>scope:dependency</kbd>
+
+  This is a real issue but cannot be solved by modifying Prettier itself, it must be fixed in one of our dependencies.
+
+* <kbd>scope:external</kbd>
+
+  This issue cannot be resolved in Prettier itself, it is an issue with something external, such as an editor integration.
+
+
 ## Status
 
 Status labels are particularly useful for finding issues that need attention.
@@ -89,6 +99,11 @@ Issue types are categories that an issue might fall into. Generally an issue sho
 
   This issue requires amending or adding new documentation.
 
+
+* <kbd>type:duplicate</kbd>
+
+  This issue is a duplicate of a previous issue.
+
 * <kbd>type:editor support</kbd>
 
   This issue pertains to ensuring Prettier provides the right tools to be used inside editor integrations.
@@ -108,18 +123,4 @@ Issue types are categories that an issue might fall into. Generally an issue sho
 * <kbd>type:question</kbd>
 
   Issues marked as questions are queries about how prettier works, or bug reports that are actually prettier working as intended.
-
-## Miscellaneous 
-
-* <kbd>dependency</kbd>
-
-  This is a real issue but cannot be solved by modifying Prettier itself, it must be fixed in one of our dependencies.
-
-* <kbd>duplicate</kbd>
-
-  This issue is a duplicate of a previous issue.
-
-* <kbd>external</kbd>
-
-  This issue cannot be resolved in Prettier itself, it is an issue with something external, such as an editor integration.
 
