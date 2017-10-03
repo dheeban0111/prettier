@@ -6,6 +6,10 @@ Issue labels fall into the following groups.
 
 Areas are parts of the code-base that frequently have issues.
 
+* <kbd>area:cli</kbd>
+  
+  Issues about Prettier's Command Line Interface
+
 * <kbd>area:comments</kbd>
   
   Comments are one of the most complicated parts of prettier. This label means the issue relates to how prettier is printing comments.
