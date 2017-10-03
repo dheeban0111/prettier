@@ -4,7 +4,7 @@ Issue labels fall into the following groups.
 
 ## Area
 
-Areas are parts of the code-base that frequently have issues.
+Areas are parts of the code-base.
 
 * <kbd>area:cli</kbd>
   
