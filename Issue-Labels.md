@@ -58,6 +58,10 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
   This issue affects TypeScript.
 
+* <kbd>lang:markdown</kbd>
+
+  This issue affects Markdown.
+
 ## Priority
 
 * <kbd>priority:high</kbd>
