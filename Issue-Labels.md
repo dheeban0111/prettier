@@ -18,6 +18,10 @@ Areas are parts of the code-base.
   
   Multi-parser is the code that makes it possible to format one programming language inside another, such as CSS-in-JS.
 
+* <kbd>area:playground</kbd>
+  
+  Issues about the [playground](https://prettier.io/playground/).
+
 ## Difficulty
 
 Difficulty is used to mark how much time it will likely take to resolve an issue, or how much nuance there is to a particular issue. 
