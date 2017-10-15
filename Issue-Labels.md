@@ -50,31 +50,31 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
   This issue affects GraphQL.
 
-* <kbd>lang:jsx</kbd>
-
-  This issue affects JSX.
-
 * <kbd>lang:javascript</kbd>
 
   This issue affects JavaScript.
 
-* <kbd>lang:typescript</kbd>
+* <kbd>lang:jsx</kbd>
 
-  This issue affects TypeScript.
+  This issue affects JSX.
 
 * <kbd>lang:markdown</kbd>
 
   This issue affects Markdown.
 
+* <kbd>lang:typescript</kbd>
+
+  This issue affects TypeScript.
+
 ## Priority
-
-* <kbd>priority:high</kbd>
-
-  High priority issues are ones that either re-print code in a way that unintentionally changes the AST, or are significant regressions and need to be fixed urgently.
 
 * <kbd>priority:facebook blocker</kbd>
 
   Although Prettier is not an official project of Facebook OpenSource, engineers working at Facebook (primarily @vjeux) have devoted a significant number of working hours to improving Prettier for everybody. Facebook use Prettier internally, and issues marked with this label block Facebook upgrading Prettier.
+
+* <kbd>priority:high</kbd>
+
+  High priority issues are ones that either re-print code in a way that unintentionally changes the AST, or are significant regressions and need to be fixed urgently.
 
 ## Scope
 
@@ -85,7 +85,6 @@ Prettier supports a growing number of languages so it is useful to tag them.
 * <kbd>scope:external</kbd>
 
   This issue cannot be resolved in Prettier itself, it is an issue with something external, such as an editor integration.
-
 
 ## Status
 
@@ -121,7 +120,6 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
   This issue requires amending or adding new documentation.
 
-
 * <kbd>type:duplicate</kbd>
 
   This issue is a duplicate of a previous issue.
@@ -142,10 +140,6 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
   The status of Prettier, or anything else about Prettier itself.
 
-* <kbd>type:tests</kbd>
-
-  Tests that are not correct, suggestions for tests that should be added, or similar.
-
 * <kbd>type:option request</kbd>
 
   Prettier gets a lot of requests to add options to change the way it will print some code. Because Prettier is opinionated, and due to the cost of maintaining options, we will often refuse to add them. [Read this](https://github.com/prettier/prettier/issues/40) for more context.
@@ -154,3 +148,6 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
   Issues marked as questions are queries about how prettier works, or bug reports that are actually prettier working as intended.
 
+* <kbd>type:tests</kbd>
+
+  Tests that are not correct, suggestions for tests that should be added, or similar.
