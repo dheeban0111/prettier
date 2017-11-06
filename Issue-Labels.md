@@ -6,6 +6,10 @@ Issue labels fall into the following groups.
 
 Areas are parts of the code-base.
 
+* <kbd>area:api</kbd>
+  
+  Issues about Prettier's Application Programming Interface.
+
 * <kbd>area:cli</kbd>
   
   Issues about Prettier's Command Line Interface.
@@ -21,6 +25,10 @@ Areas are parts of the code-base.
 * <kbd>area:playground</kbd>
   
   Issues about the [playground](https://prettier.io/playground/).
+
+* <kbd>area:website</kbd>
+  
+  Issues about the [website](https://prettier.io/), excluding playground.
 
 ## Difficulty
 
