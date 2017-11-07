@@ -62,6 +62,10 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
   This issue affects JavaScript.
 
+* <kbd>lang:json</kbd>
+
+  This issue affects JSON.
+
 * <kbd>lang:jsx</kbd>
 
   This issue affects JSX.
