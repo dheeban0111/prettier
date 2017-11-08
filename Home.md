@@ -1,6 +1,6 @@
 Welcome to the prettier wiki!
 
-Looking for the docs? Check the website: https://prettier.io/docs/en/usage.html
+Looking for the docs? Check the website: https://prettier.io/docs/en/
 
 Wiki Pages:
 
