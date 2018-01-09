@@ -118,6 +118,10 @@ Status labels are particularly useful for finding issues that need attention.
 
   This issue needs discussion and ultimately a decision to be made before it is actionable.
 
+* <kbd>status:wip</kbd>
+
+  In a pull request, marks that the code changes are a work in progress and should not be merged.
+
 ## Type
 
 Issue types are categories that an issue might fall into. Generally an issue should have exactly one type.
