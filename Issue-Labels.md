@@ -110,7 +110,7 @@ Status labels are particularly useful for finding issues that need attention.
 
   This issue has an accompanying PR. By excluding this label from your search it is easier to find actionable items.
 
-* <kbd>status:help wanted</kbd>
+* <kbd>help wanted</kbd>
 
   Help! We're only a small group of collaborators who unfortunately can't get to every issue promptly. This label means we think the issue should be addressed but don't have the capacity to resolve it now. Great for first-time contributors!
 
