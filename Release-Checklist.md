@@ -1,7 +1,8 @@
+1. Complete all [milestone items](https://github.com/prettier/prettier/milestones)
 1. Run on other projects to check for regressions
-1. Write release notes
-1. Complete all [milestone items](https://github.com/prettier/prettier/milestones), close milestone
+1. Write release notes (Add a Markdown file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog))
 1. Merge release notes
+1. Close milestone
 1. Checkout `master`
 1. Bump version in [`package.json`](https://github.com/prettier/prettier/blob/master/package.json)
 1. Update [`CHANGELOG.md`](https://github.com/prettier/prettier/blob/master/CHANGELOG.md)
