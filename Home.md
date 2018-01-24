@@ -1,7 +1,3 @@
-Welcome to the prettier wiki!
+Welcome to the Prettier wiki!
 
 Looking for the docs? Check the website: https://prettier.io/docs/en/
-
-Wiki Pages:
-
-* [Issue Labels](https://github.com/prettier/prettier/wiki/Issue-Labels)
