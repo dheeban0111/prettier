@@ -14,6 +14,11 @@ Areas are parts of the code-base.
   
   Issues about Prettier's Command Line Interface.
 
+
+* <kbd>area:tests</kbd>
+  
+  Issues about Prettier's tests and test infrastructure.
+
 * <kbd>area:comments</kbd>
   
   Comments are one of the most complicated parts of prettier. This label means the issue relates to how prettier is printing comments.
