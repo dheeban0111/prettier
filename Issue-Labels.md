@@ -83,6 +83,10 @@ Prettier supports a growing number of languages so it is useful to tag them.
 
   This issue affects TypeScript.
 
+* <kbd>lang:handlebars</kbd>
+
+  This issue affects Handlebars.
+
 ## Priority
 
 * <kbd>priority:facebook blocker</kbd>
