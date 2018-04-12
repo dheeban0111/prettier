@@ -1,6 +1,6 @@
 1. Complete all [milestone items](https://github.com/prettier/prettier/milestones)
 1. Run on other projects to check for regressions
-1. Write release notes (Add a Markdown file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog))
+1. Write release notes (Add a Markdown file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog)) - [prs-merged-since](https://npm.im/prs-merged-since) may be useful
 1. Merge release notes
 1. Close milestone
 1. Checkout `master`
