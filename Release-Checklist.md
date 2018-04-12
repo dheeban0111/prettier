@@ -7,7 +7,7 @@
 1. Run `yarn --force` to make sure everything in `node_modules` is up-to-date according to `yarn.lock`.
 1. Bump version in [`package.json`](https://github.com/prettier/prettier/blob/master/package.json)
 1. Update [`CHANGELOG.md`](https://github.com/prettier/prettier/blob/master/CHANGELOG.md)
-1. Run `yarn test_integration -u` to update snapshots (new parsers, `getSupportInfo`)
+1. Run `yarn test-integration -u` to update snapshots (new parsers, `getSupportInfo`)
 1. Commit
 1. Run `yarn build`
 1. Run `yarn test:dist`
