@@ -2,7 +2,7 @@
   - [ ] Complete [milestone items](https://github.com/prettier/prettier/milestones)
   - [ ] Run on other projects to check for regressions
   - [ ] Write release notes
-    - add a Markdown file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog)
+    - use `scripts/draft-blog-post.js` to generate a blog post draft (a file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog)) from `changelog_unreleased`
     - [prs-merged-since](https://npm.im/prs-merged-since) may be useful
 - publish
   - [ ] Run [release script](https://github.com/prettier/prettier/tree/master/scripts/release)
