@@ -3,6 +3,7 @@
   - [ ] Run on other projects to check for regressions
   - [ ] Write release notes
     - use `scripts/draft-blog-post.js` to generate a blog post draft (a file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog)) from `changelog_unreleased`
+    - replace "Prettier stable" and "Prettier master" in code examples with the actual versions
     - [prs-merged-since](https://npm.im/prs-merged-since) may be useful
 - publish
   - [ ] Run [release script](https://github.com/prettier/prettier/tree/master/scripts/release)
