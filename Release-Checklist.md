@@ -4,7 +4,7 @@
   - [ ] Write release notes
     - use `scripts/draft-blog-post.js` to generate a blog post draft (a file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog)) from `changelog_unreleased`
     - replace "Prettier stable" and "Prettier master" in code examples with the actual versions ([example](https://github.com/prettier/prettier/commit/171bc96b58c0ebad702270389674eadfffec09d1))
-    - [prs-merged-since](https://npm.im/prs-merged-since) may be useful
+    - [prs-merged-since](https://npm.im/prs-merged-since) ([readme](https://github.com/suchipi/prs-merged-since#prs-merged-since)) may be useful
 - publish
   - [ ] Run [release script](https://github.com/prettier/prettier/tree/master/scripts/release)
 - postpublish
