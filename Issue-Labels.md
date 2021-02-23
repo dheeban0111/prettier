@@ -161,6 +161,10 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
   This issue is about CI, publishing to npm, or similar.
 
+* <kbd>type:intended</kbd>
+
+  Bug reports that are actually prettier working as intended.
+
 * <kbd>type:meta</kbd>
 
   The status of Prettier, or anything else about Prettier itself.
@@ -171,7 +175,7 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
 * <kbd>type:question</kbd>
 
-  Issues marked as questions are queries about how prettier works, or bug reports that are actually prettier working as intended.
+  Questions and support requests. Issues marked as questions are automatically closed by a [bot](https://github.com/dessant/support-requests) suggesting to use Stack Overflow instead. The issue tracker is only for development.
 
 * <kbd>type:tests</kbd>
 
