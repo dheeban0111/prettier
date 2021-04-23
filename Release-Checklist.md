@@ -5,7 +5,7 @@
     - use `scripts/draft-blog-post.js` to generate a blog post draft (a file named <code>*YYYY*-*MM*-*DD*-*version*.md</code> in [`website/blog`](https://github.com/prettier/prettier/tree/master/website/blog)) from `changelog_unreleased`
     - [prs-merged-since](https://npm.im/prs-merged-since) ([readme](https://github.com/suchipi/prs-merged-since#prs-merged-since)) may be useful
 - publish
-  - [ ] Run [release script](https://github.com/prettier/prettier/tree/master/scripts/release)
+  - [ ] Run [release script](https://github.com/prettier/prettier/tree/main/scripts/release)
 - postpublish
   - [ ] Merge release notes
   - [ ] Wait for release notes to deploy
