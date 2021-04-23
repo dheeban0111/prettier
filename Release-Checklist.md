@@ -9,7 +9,7 @@
 - postpublish
   - [ ] Merge release notes
   - [ ] Wait for release notes to deploy
-  - [ ] Clean `changelog_unlreleased`
+  - [ ] Clean `changelog_unreleased`
     - use `./scripts/clean-changelog-unreleased.js`
   - [ ] Tweet from [`@PrettierCode`](https://twitter.com/PrettierCode) account via TweetDeck
   - [ ] Close milestone
