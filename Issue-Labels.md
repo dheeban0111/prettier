@@ -135,7 +135,7 @@ Status labels are particularly useful for finding issues that need attention.
 
 Issue types are categories that an issue might fall into. Generally an issue should have exactly one type.
 
-Want to triage some issues? [This query](https://github.com/prettier/prettier/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20-label%3Atype%3Abug%20-label%3Atype%3Afeature%20-label%3Atype%3Aquestion%20-label%3A%22type%3Aoption%20request%22%20-label%3Atype%3Adocs%20-label%3A%22type%3Aeditor%20support%22%20-label%3Atype%3Ainfra%20-label%3Atype%3Ameta%20-label%3Atype%3Aduplicate%20-label%3Atype%3Atests) lists all open issues without a type label.
+Want to triage some issues? [This query](https://github.com/prettier/prettier/issues?utf8=%E2%9C%93&q=is%3Aissue%20is%3Aopen%20-label%3Atype%3Abug%20-label%3Atype%3Aenhancement%20-label%3Atype%3Aquestion%20-label%3A%22type%3Aoption%20request%22%20-label%3Atype%3Adocs%20-label%3A%22type%3Aeditor%20support%22%20-label%3Atype%3Ainfra%20-label%3Atype%3Ameta%20-label%3Atype%3Aduplicate%20-label%3Atype%3Atests) lists all open issues without a type label.
 
 * <kbd>type:bug</kbd>
 
@@ -153,9 +153,9 @@ Want to triage some issues? [This query](https://github.com/prettier/prettier/is
 
   This issue pertains to ensuring Prettier provides the right tools to be used inside editor integrations.
 
-* <kbd>type:feature</kbd>
+* <kbd>type:enhancement</kbd>
 
-  Working as intended! Issues with this label represent a potential new feature to be added to prettier.
+  Working as intended! Issues with this label represent a potential new feature to be added to Prettier.
 
 * <kbd>type:infra</kbd>
 
