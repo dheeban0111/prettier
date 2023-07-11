@@ -15,7 +15,7 @@ If you need core plugins check how to get the core plugins from [the changelog](
 
 Notes:
 
-- **`parse()` can be async function**
+- **`parse()` can be async function.**
 
 [Changelog](https://prettier.io/blog/2023/07/05/3.0.0.html#the-second-argument-parsers-passed-to-parsersparse-has-been-removed-13268httpsgithubcomprettierprettierpull13268-by-fiskerhttpsgithubcomfisker)
 
